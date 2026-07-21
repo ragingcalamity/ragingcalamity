@@ -1,4 +1,4 @@
-$${\color{yellow} labubu dubai chocolate \space}$$
+$${\color{blue} labubu dubai chocolate \space}$$
 
 <!--
 **flower1170/flower1170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
